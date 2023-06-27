@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "IridiumIO/CompactGUI",
+    "stargazers_count": 3657,
+    "open_issues_count": 52,
+    "forks_count": 199
+  },
+  {
     "full_name": "kubowania/flappy-bird",
     "stargazers_count": 101,
     "open_issues_count": 6,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 70901,
-    "open_issues_count": 82,
-    "forks_count": 11125
+    "stargazers_count": 71111,
+    "open_issues_count": 85,
+    "forks_count": 11180
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 242437,
-    "open_issues_count": 482,
-    "forks_count": 34141
+    "stargazers_count": 242807,
+    "open_issues_count": 494,
+    "forks_count": 34177
   },
   {
     "full_name": "jmadoremos/amaoed-cpp-template",
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 2480,
+    "stargazers_count": 2483,
     "open_issues_count": 26,
     "forks_count": 522
   }
