@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "menees/Chords",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 25699,
-    "open_issues_count": 167,
-    "forks_count": 1546
+    "stargazers_count": 25790,
+    "open_issues_count": 173,
+    "forks_count": 1550
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 5158,
-    "open_issues_count": 28,
+    "stargazers_count": 5163,
+    "open_issues_count": 29,
     "forks_count": 239
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 83791,
+    "stargazers_count": 83801,
     "open_issues_count": 115,
-    "forks_count": 12417
+    "forks_count": 12416
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -43,14 +49,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 301531,
-    "open_issues_count": 92,
-    "forks_count": 39539
+    "stargazers_count": 301779,
+    "open_issues_count": 99,
+    "forks_count": 39580
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3379,
-    "open_issues_count": 35,
-    "forks_count": 630
+    "stargazers_count": 3386,
+    "open_issues_count": 37,
+    "forks_count": 631
   }
 ]
