@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "greenpau/caddy-security",
+    "stargazers_count": 1620,
+    "open_issues_count": 176,
+    "forks_count": 77
+  },
+  {
+    "full_name": "DavidHDev/react-bits",
+    "stargazers_count": 8030,
+    "open_issues_count": 5,
+    "forks_count": 269
+  },
+  {
     "full_name": "dobizz/PyLDT",
     "stargazers_count": 3,
     "open_issues_count": 0,
@@ -13,21 +25,21 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 30296,
-    "open_issues_count": 200,
-    "forks_count": 1724
+    "stargazers_count": 30448,
+    "open_issues_count": 202,
+    "forks_count": 1732
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 5302,
+    "stargazers_count": 5314,
     "open_issues_count": 36,
-    "forks_count": 239
+    "forks_count": 238
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 85191,
+    "stargazers_count": 85252,
     "open_issues_count": 121,
-    "forks_count": 12653
+    "forks_count": 12663
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -49,19 +61,19 @@
   },
   {
     "full_name": "farag2/Utilities",
-    "stargazers_count": 564,
+    "stargazers_count": 565,
     "open_issues_count": 0,
     "forks_count": 104
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 309015,
-    "open_issues_count": 161,
-    "forks_count": 40385
+    "stargazers_count": 309259,
+    "open_issues_count": 164,
+    "forks_count": 40395
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3486,
+    "stargazers_count": 3492,
     "open_issues_count": 40,
     "forks_count": 639
   }
