@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
+    "stargazers_count": 649,
+    "open_issues_count": 2,
+    "forks_count": 365
+  },
+  {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 33183,
-    "open_issues_count": 502,
-    "forks_count": 2189
+    "stargazers_count": 33263,
+    "open_issues_count": 515,
+    "forks_count": 2205
   },
   {
     "full_name": "greenpau/caddy-security",
-    "stargazers_count": 1647,
+    "stargazers_count": 1648,
     "open_issues_count": 176,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 8875,
-    "open_issues_count": 4,
-    "forks_count": 313
+    "stargazers_count": 9199,
+    "open_issues_count": 3,
+    "forks_count": 326
   },
   {
     "full_name": "dobizz/PyLDT",
@@ -31,21 +37,21 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 31211,
-    "open_issues_count": 211,
-    "forks_count": 1771
+    "stargazers_count": 31370,
+    "open_issues_count": 218,
+    "forks_count": 1781
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 5362,
+    "stargazers_count": 5375,
     "open_issues_count": 38,
     "forks_count": 239
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 85555,
-    "open_issues_count": 124,
-    "forks_count": 12744
+    "stargazers_count": 85611,
+    "open_issues_count": 126,
+    "forks_count": 12762
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -67,20 +73,20 @@
   },
   {
     "full_name": "farag2/Utilities",
-    "stargazers_count": 569,
+    "stargazers_count": 571,
     "open_issues_count": 0,
     "forks_count": 104
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 311606,
-    "open_issues_count": 176,
-    "forks_count": 40595
+    "stargazers_count": 311949,
+    "open_issues_count": 184,
+    "forks_count": 40625
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3516,
+    "stargazers_count": 3521,
     "open_issues_count": 41,
-    "forks_count": 642
+    "forks_count": 645
   }
 ]
