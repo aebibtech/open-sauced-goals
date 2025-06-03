@@ -1,7 +1,7 @@
 [
   {
     "full_name": "hydrostack/hydro",
-    "stargazers_count": 834,
+    "stargazers_count": 837,
     "open_issues_count": 13,
     "forks_count": 25
   },
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "break-into-data/ai-engineer-toolkit",
-    "stargazers_count": 1327,
+    "stargazers_count": 1339,
     "open_issues_count": 1,
-    "forks_count": 209
+    "forks_count": 212
   },
   {
     "full_name": "furey/mongodb-lens",
-    "stargazers_count": 159,
+    "stargazers_count": 161,
     "open_issues_count": 1,
     "forks_count": 16
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 60953,
+    "stargazers_count": 61018,
     "open_issues_count": 80,
-    "forks_count": 4081
+    "forks_count": 4086
   },
   {
     "full_name": "nuejs/nue",
-    "stargazers_count": 8685,
-    "open_issues_count": 76,
-    "forks_count": 256
+    "stargazers_count": 8696,
+    "open_issues_count": 75,
+    "forks_count": 255
   },
   {
     "full_name": "evolutionary-architecture/evolutionary-architecture-by-example",
-    "stargazers_count": 2370,
+    "stargazers_count": 2372,
     "open_issues_count": 8,
-    "forks_count": 332
+    "forks_count": 333
   },
   {
     "full_name": "codespaces-contrib/azdo-in-codespaces",
@@ -50,44 +50,44 @@
   {
     "full_name": "al1abb/invoify",
     "stargazers_count": 5298,
-    "open_issues_count": 35,
-    "forks_count": 545
+    "open_issues_count": 36,
+    "forks_count": 550
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 16886,
-    "open_issues_count": 44,
-    "forks_count": 708
+    "stargazers_count": 16946,
+    "open_issues_count": 45,
+    "forks_count": 709
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 8695,
-    "open_issues_count": 48,
-    "forks_count": 263
+    "stargazers_count": 8746,
+    "open_issues_count": 47,
+    "forks_count": 265
   },
   {
     "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
-    "stargazers_count": 1329,
-    "open_issues_count": 4,
-    "forks_count": 972
+    "stargazers_count": 1352,
+    "open_issues_count": 3,
+    "forks_count": 997
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 35104,
-    "open_issues_count": 641,
-    "forks_count": 2477
+    "stargazers_count": 35179,
+    "open_issues_count": 649,
+    "forks_count": 2489
   },
   {
     "full_name": "greenpau/caddy-security",
-    "stargazers_count": 1768,
-    "open_issues_count": 182,
+    "stargazers_count": 1772,
+    "open_issues_count": 181,
     "forks_count": 80
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 11780,
+    "stargazers_count": 11897,
     "open_issues_count": 3,
-    "forks_count": 438
+    "forks_count": 441
   },
   {
     "full_name": "dobizz/PyLDT",
@@ -103,21 +103,21 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 35063,
-    "open_issues_count": 210,
-    "forks_count": 1955
+    "stargazers_count": 35244,
+    "open_issues_count": 214,
+    "forks_count": 1961
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 5999,
-    "open_issues_count": 41,
+    "stargazers_count": 6013,
+    "open_issues_count": 20,
     "forks_count": 262
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 88238,
-    "open_issues_count": 136,
-    "forks_count": 13352
+    "stargazers_count": 88323,
+    "open_issues_count": 138,
+    "forks_count": 13374
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 324460,
-    "open_issues_count": 263,
-    "forks_count": 41822
+    "stargazers_count": 325344,
+    "open_issues_count": 261,
+    "forks_count": 41913
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3636,
+    "stargazers_count": 3640,
     "open_issues_count": 40,
-    "forks_count": 658
+    "forks_count": 659
   }
 ]
