@@ -1,9 +1,9 @@
 [
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 14619,
-    "open_issues_count": 785,
-    "forks_count": 783
+    "stargazers_count": 14638,
+    "open_issues_count": 774,
+    "forks_count": 786
   },
   {
     "full_name": "hydrostack/hydro",
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "break-into-data/ai-engineer-toolkit",
-    "stargazers_count": 1984,
+    "stargazers_count": 1994,
     "open_issues_count": 1,
-    "forks_count": 393
+    "forks_count": 395
   },
   {
     "full_name": "furey/mongodb-lens",
-    "stargazers_count": 183,
-    "open_issues_count": 3,
-    "forks_count": 21
+    "stargazers_count": 184,
+    "open_issues_count": 4,
+    "forks_count": 22
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 63582,
-    "open_issues_count": 78,
-    "forks_count": 4249
+    "stargazers_count": 63616,
+    "open_issues_count": 79,
+    "forks_count": 4251
   },
   {
     "full_name": "nuejs/nue",
-    "stargazers_count": 8787,
+    "stargazers_count": 8789,
     "open_issues_count": 88,
     "forks_count": 255
   },
   {
     "full_name": "evolutionary-architecture/evolutionary-architecture-by-example",
-    "stargazers_count": 2585,
-    "open_issues_count": 13,
-    "forks_count": 369
+    "stargazers_count": 2666,
+    "open_issues_count": 11,
+    "forks_count": 393
   },
   {
     "full_name": "codespaces-contrib/azdo-in-codespaces",
@@ -56,44 +56,44 @@
   {
     "full_name": "al1abb/invoify",
     "stargazers_count": 5900,
-    "open_issues_count": 35,
-    "forks_count": 615
+    "open_issues_count": 36,
+    "forks_count": 614
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 18696,
-    "open_issues_count": 26,
+    "stargazers_count": 18756,
+    "open_issues_count": 28,
     "forks_count": 813
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 9193,
-    "open_issues_count": 14,
-    "forks_count": 289
+    "stargazers_count": 9201,
+    "open_issues_count": 9,
+    "forks_count": 290
   },
   {
     "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
-    "stargazers_count": 1773,
+    "stargazers_count": 1792,
     "open_issues_count": 23,
-    "forks_count": 1373
+    "forks_count": 1388
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 37248,
-    "open_issues_count": 713,
-    "forks_count": 2858
+    "stargazers_count": 37308,
+    "open_issues_count": 722,
+    "forks_count": 2871
   },
   {
     "full_name": "greenpau/caddy-security",
-    "stargazers_count": 1891,
+    "stargazers_count": 1892,
     "open_issues_count": 193,
     "forks_count": 88
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 23297,
-    "open_issues_count": 1,
-    "forks_count": 951
+    "stargazers_count": 23686,
+    "open_issues_count": 2,
+    "forks_count": 967
   },
   {
     "full_name": "dobizz/PyLDT",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 39643,
-    "open_issues_count": 210,
-    "forks_count": 2128
+    "stargazers_count": 39762,
+    "open_issues_count": 212,
+    "forks_count": 2131
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 6493,
-    "open_issues_count": 29,
+    "stargazers_count": 6549,
+    "open_issues_count": 31,
     "forks_count": 272
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 91674,
+    "stargazers_count": 91701,
     "open_issues_count": 41,
-    "forks_count": 13970
+    "forks_count": 13987
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 335160,
-    "open_issues_count": 288,
-    "forks_count": 42673
+    "stargazers_count": 335336,
+    "open_issues_count": 221,
+    "forks_count": 42687
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3756,
+    "stargazers_count": 3763,
     "open_issues_count": 35,
     "forks_count": 669
   }
