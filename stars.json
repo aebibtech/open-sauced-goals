@@ -1,14 +1,14 @@
 [
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 14734,
-    "open_issues_count": 780,
+    "stargazers_count": 14749,
+    "open_issues_count": 782,
     "forks_count": 796
   },
   {
     "full_name": "hydrostack/hydro",
-    "stargazers_count": 863,
-    "open_issues_count": 20,
+    "stargazers_count": 865,
+    "open_issues_count": 21,
     "forks_count": 29
   },
   {
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "break-into-data/ai-engineer-toolkit",
-    "stargazers_count": 2033,
+    "stargazers_count": 2037,
     "open_issues_count": 2,
     "forks_count": 401
   },
   {
     "full_name": "furey/mongodb-lens",
-    "stargazers_count": 185,
+    "stargazers_count": 187,
     "open_issues_count": 4,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 63975,
-    "open_issues_count": 84,
-    "forks_count": 4276
+    "stargazers_count": 64086,
+    "open_issues_count": 87,
+    "forks_count": 4289
   },
   {
     "full_name": "nuejs/nue",
-    "stargazers_count": 8789,
-    "open_issues_count": 90,
+    "stargazers_count": 8794,
+    "open_issues_count": 89,
     "forks_count": 256
   },
   {
     "full_name": "evolutionary-architecture/evolutionary-architecture-by-example",
-    "stargazers_count": 2742,
+    "stargazers_count": 2797,
     "open_issues_count": 9,
-    "forks_count": 400
+    "forks_count": 412
   },
   {
     "full_name": "codespaces-contrib/azdo-in-codespaces",
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "al1abb/invoify",
-    "stargazers_count": 5970,
+    "stargazers_count": 5978,
     "open_issues_count": 32,
-    "forks_count": 623
+    "forks_count": 624
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 19043,
-    "open_issues_count": 10,
-    "forks_count": 830
+    "stargazers_count": 19077,
+    "open_issues_count": 11,
+    "forks_count": 833
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 9279,
-    "open_issues_count": 11,
-    "forks_count": 293
+    "stargazers_count": 9295,
+    "open_issues_count": 15,
+    "forks_count": 295
   },
   {
     "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
-    "stargazers_count": 1894,
-    "open_issues_count": 22,
-    "forks_count": 1470
+    "stargazers_count": 1917,
+    "open_issues_count": 23,
+    "forks_count": 1490
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 37667,
-    "open_issues_count": 709,
-    "forks_count": 2929
+    "stargazers_count": 37720,
+    "open_issues_count": 712,
+    "forks_count": 2938
   },
   {
     "full_name": "greenpau/caddy-security",
-    "stargazers_count": 1911,
+    "stargazers_count": 1915,
     "open_issues_count": 196,
     "forks_count": 88
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 26318,
-    "open_issues_count": 2,
-    "forks_count": 1086
+    "stargazers_count": 26701,
+    "open_issues_count": 3,
+    "forks_count": 1115
   },
   {
     "full_name": "dobizz/PyLDT",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 40483,
-    "open_issues_count": 222,
-    "forks_count": 2163
+    "stargazers_count": 40628,
+    "open_issues_count": 225,
+    "forks_count": 2173
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 6642,
-    "open_issues_count": 36,
-    "forks_count": 275
+    "stargazers_count": 6654,
+    "open_issues_count": 38,
+    "forks_count": 276
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 92043,
-    "open_issues_count": 51,
-    "forks_count": 14134
+    "stargazers_count": 92121,
+    "open_issues_count": 52,
+    "forks_count": 14166
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -151,14 +151,14 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 337484,
-    "open_issues_count": 159,
-    "forks_count": 42872
+    "stargazers_count": 338746,
+    "open_issues_count": 171,
+    "forks_count": 42980
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3788,
-    "open_issues_count": 38,
-    "forks_count": 675
+    "stargazers_count": 3795,
+    "open_issues_count": 36,
+    "forks_count": 676
   }
 ]
