@@ -1,7 +1,7 @@
 [
   {
     "full_name": "dagger/dagger",
-    "stargazers_count": 14982,
+    "stargazers_count": 14995,
     "open_issues_count": 815,
     "forks_count": 824
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "break-into-data/ai-engineer-toolkit",
-    "stargazers_count": 2054,
+    "stargazers_count": 2056,
     "open_issues_count": 2,
-    "forks_count": 408
+    "forks_count": 409
   },
   {
     "full_name": "furey/mongodb-lens",
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "juliangarnier/anime",
-    "stargazers_count": 65244,
-    "open_issues_count": 84,
-    "forks_count": 4364
+    "stargazers_count": 65265,
+    "open_issues_count": 85,
+    "forks_count": 4369
   },
   {
     "full_name": "nuejs/nue",
-    "stargazers_count": 8841,
+    "stargazers_count": 8840,
     "open_issues_count": 73,
     "forks_count": 259
   },
   {
     "full_name": "evolutionary-architecture/evolutionary-architecture-by-example",
-    "stargazers_count": 3033,
-    "open_issues_count": 12,
+    "stargazers_count": 3038,
+    "open_issues_count": 14,
     "forks_count": 451
   },
   {
@@ -55,45 +55,45 @@
   },
   {
     "full_name": "al1abb/invoify",
-    "stargazers_count": 6036,
+    "stargazers_count": 6054,
     "open_issues_count": 37,
-    "forks_count": 640
+    "forks_count": 644
   },
   {
     "full_name": "magicuidesign/magicui",
-    "stargazers_count": 19489,
-    "open_issues_count": 27,
-    "forks_count": 879
+    "stargazers_count": 19516,
+    "open_issues_count": 29,
+    "forks_count": 880
   },
   {
     "full_name": "instantdb/instant",
-    "stargazers_count": 9449,
-    "open_issues_count": 19,
+    "stargazers_count": 9454,
+    "open_issues_count": 17,
     "forks_count": 308
   },
   {
     "full_name": "microsoft/Generative-AI-for-beginners-dotnet",
-    "stargazers_count": 2054,
-    "open_issues_count": 0,
-    "forks_count": 1598
+    "stargazers_count": 2061,
+    "open_issues_count": 1,
+    "forks_count": 1605
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 38835,
-    "open_issues_count": 806,
-    "forks_count": 3110
+    "stargazers_count": 38909,
+    "open_issues_count": 808,
+    "forks_count": 3117
   },
   {
     "full_name": "greenpau/caddy-security",
-    "stargazers_count": 1981,
-    "open_issues_count": 205,
+    "stargazers_count": 1984,
+    "open_issues_count": 206,
     "forks_count": 88
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 30869,
-    "open_issues_count": 6,
-    "forks_count": 1341
+    "stargazers_count": 31039,
+    "open_issues_count": 4,
+    "forks_count": 1350
   },
   {
     "full_name": "dobizz/PyLDT",
@@ -109,21 +109,21 @@
   },
   {
     "full_name": "ChrisTitusTech/winutil",
-    "stargazers_count": 42829,
-    "open_issues_count": 257,
-    "forks_count": 2281
+    "stargazers_count": 42923,
+    "open_issues_count": 265,
+    "forks_count": 2286
   },
   {
     "full_name": "IridiumIO/CompactGUI",
-    "stargazers_count": 6870,
-    "open_issues_count": 41,
-    "forks_count": 281
+    "stargazers_count": 6877,
+    "open_issues_count": 43,
+    "forks_count": 283
   },
   {
     "full_name": "microsoft/Web-Dev-For-Beginners",
-    "stargazers_count": 94256,
-    "open_issues_count": 66,
-    "forks_count": 14708
+    "stargazers_count": 94325,
+    "open_issues_count": 70,
+    "forks_count": 14740
   },
   {
     "full_name": "aebibtech/box-dl-gui",
@@ -145,20 +145,20 @@
   },
   {
     "full_name": "farag2/Utilities",
-    "stargazers_count": 657,
+    "stargazers_count": 658,
     "open_issues_count": 0,
     "forks_count": 119
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 343811,
-    "open_issues_count": 140,
-    "forks_count": 43379
+    "stargazers_count": 344018,
+    "open_issues_count": 131,
+    "forks_count": 43412
   },
   {
     "full_name": "mattcone/markdown-guide",
-    "stargazers_count": 3839,
-    "open_issues_count": 36,
-    "forks_count": 683
+    "stargazers_count": 3846,
+    "open_issues_count": 37,
+    "forks_count": 684
   }
 ]
